@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="79.874mm" height="79.899mm" version="1.1" viewBox="0 0 79.874 79.899" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient7293" x1="-1152.3" x2="-1105.7" y1="-860.93" y2="-860.93" gradientTransform="translate(1302.3 1013.2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#03b899" offset="0"/>
+   <stop stop-color="#1747e1" stop-opacity=".93769" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-98.495 -112.33)">
+  <path d="m138.43 112.59v79.374a39.687 39.687 0 0 0 39.687-39.687 39.687 39.687 0 0 0-39.687-39.688zm11.597 22.257a15.952 17.43 0 0 1 15.953 17.43 15.952 17.43 0 0 1-15.953 17.43v-9.9e-4zm-51.266 16.923a39.687 39.687 0 0 0-0.019 0.50816 39.687 39.687 0 0 0 0.019 0.50815z" fill="url(#linearGradient7293)" stroke-linecap="square" stroke-linejoin="bevel" stroke-width=".99127"/>
+  <path d="m138.43 112.59a39.687 39.687 0 0 0-9.221 1.1126v77.15a39.687 39.687 0 0 0 9.221 1.1126zm-13.977 2.5761a39.687 39.687 0 0 0-9.3199 5.0149v64.193a39.687 39.687 0 0 0 9.3199 5.0149zm-14.076 9.0842a39.687 39.687 0 0 0-11.616 27.52v1.0163a39.687 39.687 0 0 0 11.616 27.519z" fill="#808080" stroke-width=".99127"/>
+  <path d="m138.09 120.87-0.4355 0.29249-8.4439 5.6598v1.2632l9.0295-6.0517 0.4359-0.29045zm-13.636 9.1406-8.2749 5.5466-0.014 0.8616 8.2888 5.9288v-1.2924l-7.0619-5.0487 7.0619-4.7332zm0 12.391-9.3199 5.2966v1.2063l9.3199-5.2972zm-14.076 7.9993-5.1671 2.9367 0.01 0.91591 5.1574 2.8235v-1.1956l-3.8302-2.0966 3.8302-2.1771zm4.7557 8.0843v1.1956l9.3199 5.103v-1.1966zm14.076 7.7058v1.1756l0.2402-0.14344-0.018-0.91026zm-4.7563 2.7923-6.9194 4.1272 0.021 0.91385 6.899 3.702v-1.1905l-5.5861-2.9977 5.5861-3.3332zm4.7563 10.105v1.19l8.4782 4.5493 0.4627 0.24947 0.4953-0.92513-0.4626-0.24792z" color="#000000" fill="#fff" fill-opacity=".22145" stroke-linecap="square" stroke-linejoin="bevel" stroke-width=".99127"/>
+  <path d="m110.39 151.6-3.8578 2.1929 3.8578 2.112z" fill="#e6e6e6"/>
+  <ellipse cx="138.43" cy="152.28" rx="39.687" ry="39.687" fill="none" stop-color="#000000" stroke="#fff" stroke-linecap="square" stroke-linejoin="bevel" stroke-width=".4991"/>
+  <path d="m138.43 112.59v79.374" fill="#fff" stop-color="#000000" stroke="#fff" stroke-linecap="square" stroke-linejoin="bevel" stroke-width=".52454"/>
+ </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="100px" height="80.223px" version="1.1" viewBox="0 0 100 80.223" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5656" x1="-213.41" x2="-213.41" y1="272.33" y2="399.69" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5654"/>
+  <linearGradient id="linearGradient5654">
+   <stop stop-color="#868686" offset="0"/>
+   <stop stop-color="#666" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="matrix(.62992 0 0 .62992 185.16 -171.55)" fill="url(#linearGradient5656)">
+  <circle cx="-282.29" cy="283.99" r="11.654" stop-color="#000000"/>
+  <circle cx="-282.29" cy="318.67" r="11.654" stop-color="#000000"/>
+  <circle cx="-282.29" cy="353.35" r="11.654" stop-color="#000000"/>
+  <circle cx="-282.29" cy="388.03" r="11.654" stop-color="#000000"/>
+  <g id="lines-g">
+   <rect id="line-a" x="-248.82" y="272.33" width="113.62" height="23.308" ry="11.654" stop-color="#000000"/>
+   <rect id="line-b" x="-248.82" y="307.01" width="113.62" height="23.308" ry="11.654" stop-color="#000000"/>
+   <rect id="line-c" x="-248.82" y="341.7" width="113.62" height="23.308" ry="11.654" stop-color="#000000"/>
+   <rect id="line-d" x="-248.82" y="376.38" width="113.62" height="23.308" ry="11.654" stop-color="#000000"/>
+  </g>
+ </g>
+</svg>
