@@ -2,36 +2,31 @@
 {
   "pages" : [
     {
-      "name": "Welcome", 
-      "card" : "welcome", 
-      "link": "#"
-    },
-    {
-      "name": "Homepage",
-      "card" : "homepage", 
-      "link": "https://domx3.github.io"
-    },
-    {
       "name": "Brackets",
-      "card" : "brackets", 
-      "link": "https://domx3.github.io/brackets"
+      "link": "https://domx3.github.io/brackets",
+      "description" : "brackets" 
+    },
+    {
+      "name": "Isometric Rooms",
+      "link": "https://domx3.github.io/iso-rooms",
+      "description" : "iso-rooms"
     },
     {
       "name": "Space Tour",
-      "card" : "space", 
-      "link": "https://domx3.github.io/space-tour"
+      "link": "https://domx3.github.io/space-tour",
+      "description" : "space"
     },
+    {
+      "name": "Gears 'n' Pipes",
+      "link": "https://domx3.github.io/gears-n-pipes",
+      "description" : "gears-n-pipes"
+    },
+
     {
       "name": "Hello Lamp",
-      "card" : "lamp", 
-      "link": "https://domx3.github.io/hello-lamp"
-    },
-    {
-      "name": "End",
-      "card" : "end", 
-      "link": "#"
+      "link": "https://domx3.github.io/hello-lamp",
+      "description" : "lamp"
     }
   ]
   
   }
-  
