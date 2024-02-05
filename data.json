@@ -4,28 +4,28 @@
     {
       "name": "Brackets",
       "link": "https://domx3.github.io/brackets",
-      "description" : "brackets" 
+      "description" : "A react application where you can create your own brackets for tracking competitions, like sports, beer pong, etc."
     },
     {
       "name": "Isometric Rooms",
       "link": "https://domx3.github.io/iso-rooms",
-      "description" : "iso-rooms"
+      "description" : "Scroll through my 3D gym models in an orthographic perspective."
     },
     {
       "name": "Space Tour",
       "link": "https://domx3.github.io/space-tour",
-      "description" : "space"
+      "description" : "When you start with Threejs it seems common to make an app related to space or planets, so here is mine..."
     },
     {
       "name": "Gears 'n' Pipes",
       "link": "https://domx3.github.io/gears-n-pipes",
-      "description" : "gears-n-pipes"
+      "description" : "Steampunk inspired site with two different scenes. Used to be my github homepage, now it is looking for a new purpose."
     },
 
     {
       "name": "Hello Lamp",
       "link": "https://domx3.github.io/hello-lamp",
-      "description" : "lamp"
+      "description" : "My first Threejs application with two of my earliest 3D models. Now used mostly for learning and testing. It forces full screen, so just press esc or scroll form top."
     }
   ]
   
