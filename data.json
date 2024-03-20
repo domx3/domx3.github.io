@@ -6,6 +6,11 @@
       "link": "https://domx3.github.io/brackets",
       "description" : "A react application where you can create your own brackets for tracking competitions, like sports, beer pong, etc."
     },
+        {
+      "name": "Configurator",
+      "link": "https://domx3.github.io/configurator",
+      "description" : "A simple configurator prototype for 3D model made with react and react-three-fiber."
+    },
     {
       "name": "Isometric Rooms",
       "link": "https://domx3.github.io/iso-rooms",
